@@ -7,11 +7,11 @@ function Banner() {
         <div className="w-full order-2 md:order-1 md:w-1/2 mt-12 md:mt-36">
           <div className="space-y-8">
             <h1 className="text-2xl md:text-4xl font-bold">
-              Hello, welcomes here to learn something{" "}
+              Hello, bookStore welcomes you here to learn something{" "}
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-sm md:text-xl">
-              This is a one stop solution for readers who are fond of reading books and acquiring knowledge to continously grow in their respective fields. There are numerous books of different genres to select from.
+              Discover a heaven for book lovers where every visit promise a new adventure and learning. Our carefully curated collection spans genres and generations, inviting you to explore, imagine and immerse yourself in the magic of reading.
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg
